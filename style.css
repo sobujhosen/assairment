@@ -1,0 +1,137 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+
+.hed-top{
+	font-size: 60px;
+	border-image: linear-gradient( orange, tomato);
+	border-left: 5px solid;
+	border-radius: 5px;
+	border-image-slice: 1;
+	padding-right: 5px;}
+
+h1{font-size: 50px;}
+
+span{
+	color: tomato;}
+
+	.mission{
+			text-align: center;	}
+
+.a-link{
+	text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: #fcf9f6;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px; }
+
+
+
+    .contaniar{
+    	display: flex;
+    	margin-bottom: 100px;
+    }
+
+
+    .main-section{
+    	width: 40%;
+    	margin-left: 5%;
+    	margin-right: 5%;
+    	padding: 10px;
+    }
+    .main-section img{
+    	width: 80%;
+    }
+
+    #images{
+    	width: 500px;
+	    height: 500px;
+	    }
+
+
+	    .section-item{
+
+		width: 40%;
+		height: 40%;
+		margin-left: 5%;
+		margin-right: 5%;
+		
+		border-radius: 20px;
+		}
+	.item1{
+
+		background-color: olivedrab;
+		padding: 30px 30px;
+		}
+	.item2{
+		background-color: slategray;
+		padding: 30px 30px;
+		}
+
+	.item3{
+		background-color: papayawhip;
+		padding: 30px 30px;
+
+		}
+
+	#items1{
+		width: 50%;
+		height: 100px;
+		margin-left: 0px;
+		}
+	#items2{
+		width: 50%;
+		height: 100px;
+		}
+	#items3{
+		width: 50%;
+		height: 100px;}
+
+	.dev-bac{
+		
+		background-image: url(img/shapes/shape-4png);
+		background-position: left;
+		background-repeat: no-repeat;
+		
+
+	}
+	
+	#apps{
+		width: 60%;
+	margin-left: 5%;
+	}
+
+
+
+
+
+
+
+
+
+
+footer{
+
+		width: 250px;
+		width: auto;
+		background-color: black;
+		padding-bottom: 10px;
+
+	}
+	footer h2{
+	font-size: 50px;
+	color: wheat;
+	
+	font-weight: 700;
+	text-align: center;
+	
+	}footer p{
+	color: wheat;
+	
+	font-weight: 400;
+	text-align: center;
+	}
+
